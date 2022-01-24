@@ -5,7 +5,7 @@ const Login = () => {
     return (
         <div className="login">
             <div className="form-container">
-                <img src="./logos/logo_yard_sale.svg" alt="logo" className="logo"></img>
+                <img src="../assets/logos/logo_yard_sale.svg" alt="logo" className="logo"></img>
 
                 <h1 className="title">Create a new password</h1>
                 <p className="subtitle">Enter a new password for yue account</p>
